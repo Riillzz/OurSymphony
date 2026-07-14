@@ -476,7 +476,7 @@ const heartPhotos = [
     "assets/photos/27.jpg",
     "assets/photos/28.jpg",
     "assets/photos/29.jpg",
-    "assets/photos/31.jpg"
+    "assets/photos/30.jpg"
 
 ];
 
